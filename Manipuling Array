@@ -1,0 +1,6 @@
+var myArray = [true, "What is the meaning of life?"];
+// TODO: write your code here:
+myArray.splice(0, 1);
+myArray.push(42);
+console.log(myArray[0]);
+console.log(myArray[1]);
