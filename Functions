@@ -1,0 +1,10 @@
+// TODO: define the function multiplyFive here
+
+function multiplyFive(multiply)
+{
+    return multiply * 5;
+}
+console.log(multiplyFive(3));
+console.log(multiplyFive(4));
+console.log(multiplyFive(5));
+console.log(multiplyFive(6));
